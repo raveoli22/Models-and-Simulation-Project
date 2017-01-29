@@ -15,5 +15,3 @@ The simulator will output the average speed, wait time, and number of cars that 
 * To adjust the number of road blocks, change the NUMROADS macro. 
 
 Screenshots: 
-
-
